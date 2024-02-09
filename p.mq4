@@ -15,7 +15,7 @@ enum SG
 };
 
 extern SG Strategy = Trend; // Trading Strategy
-extern string EAComment = "SpaceX_Prop_EA"; // Galaxy Profit
+extern string EAComment = "Prop_EA"; // Galaxy Profit
 extern ENUM_TIMEFRAMES TimeFrame = PERIOD_M15;
 extern string CloseAtPipsProfits = "Prop Phase Target 10%"; // Prop Firm Target
 extern bool UseCloseAtPipsProfits = true; // Challenge Prop Mode
